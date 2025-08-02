@@ -1,0 +1,21 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python bytecode/cache
+__pycache__/
+*.py[cod]
+
+# Ignore model and temporary files
+*.pkl
+*.log
+*.tmp
+
+# Ignore OS files
+.DS_Store
+
+
+# Ignore output and generated prediction files
+outputs/
+
+
+Task_3/data/twcs.csv
